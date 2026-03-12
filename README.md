@@ -1,18 +1,66 @@
 # Claude Dusengimana
 
-Senior Network & Security Engineer | IT Infrastructure | Data Systems
+Senior Network & Security Engineer | Cybersecurity | IoT Security | AI Systems
 
 Based in Kigali, Rwanda.
 
-I work on secure enterprise systems, databases, and infrastructure supporting mission-critical environments.
+I specialize in secure infrastructure, Linux systems administration, cybersecurity analysis, and IoT security research. I build tools that help monitor systems, analyze security risks, and improve infrastructure reliability.
 
-## Areas of Interest
+---
 
-- Cybersecurity and Network Security
-- Linux Systems Administration
-- SQL Databases and Data Integrity
-- AI Applications in Infrastructure and Logistics
-- Secure Systems and IoT Security
+## Areas of Expertise
+
+Cybersecurity  
+Linux Systems Administration  
+Network Security  
+IoT Security Research  
+Machine Learning for Security  
+Infrastructure Monitoring  
+
+---
+
+## Technologies
+
+Python  
+Linux  
+SQL  
+Bash  
+Machine Learning  
+Network Security  
+IoT Systems  
+
+---
+
+## Featured Projects
+
+### Smart Baby Care Incubator
+IoT-based neonatal monitoring system integrating sensors, AI monitoring, and hybrid power systems.
+
+### Linux Server Monitoring Tool
+A Python-based tool for monitoring Linux server resources including CPU, memory, disk usage, and uptime.
+
+### Security Log Analyzer
+A cybersecurity tool that analyzes authentication logs to detect suspicious login activity.
+
+### IoT Firmware Vulnerability Scanner
+A security analysis tool designed to scan IoT firmware for sensitive information and vulnerabilities.
+
+### RBAC Authentication System
+Role-Based Access Control implementation demonstrating secure user permission management.
+
+### AI Intrusion Detection System
+Machine learning-based network intrusion detection system for identifying suspicious traffic patterns.
+
+---
+
+## Research
+
+Master of Science in Information Technology (Programming)
+
+Research Topic:
+Security Vulnerabilities in IoT Firmware
+
+---
 
 ## Professional Experience
 
@@ -22,25 +70,20 @@ Kigali Psycho-Medical Center (KPMC)
 Network & Security Engineer  
 Sheebah Computer Solution Ltd
 
-## Technical Skills
+---
 
-**Systems**
-Linux • Windows Server • Virtualization
+## Connect With Me
 
-**Data**
-SQL • Database Backup & Recovery • Data Validation • ETL Concepts
+LinkedIn  
+https://linkedin.com/in/dusengimana-claude
 
-**Security**
-RBAC • System Hardening • Vulnerability Assessment • Data Protection
+Email  
+dusenge125@gmail.com
 
-**Programming**
-Python • SQL • Bash
+---
 
-## Research
+## GitHub Stats
 
-MSc Research: Security Vulnerabilities in IoT Firmware
+![Claude's GitHub stats](https://github-readme-stats.vercel.app/api?username=claude125&show_icons=true)
 
-## Connect
-
-LinkedIn: https://linkedin.com/in/dusengimana-claude  
-Email: dusenge125@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claude125&layout=compact)
