@@ -108,6 +108,21 @@ Custom **log harvester** detecting brute-force patterns and geographic anomalies
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🔥 Smart Fire Fighting Robot
+**Autonomous robotic system** that detects and suppresses fires without human intervention. NodeMCU ESP8266-powered with real-time IoT dashboard monitoring, MQTT telemetry, and instant push alerts — inspired by the Rusumo Border fire accident (2018).
+
+![NodeMCU](https://img.shields.io/badge/-NodeMCU_ESP8266-00979D?style=flat-square&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT_Dashboard-ff4500?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
