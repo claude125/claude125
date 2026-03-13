@@ -117,6 +117,7 @@ Custom **log harvester** detecting brute-force patterns and geographic anomalies
 ![NodeMCU](https://img.shields.io/badge/-NodeMCU_ESP8266-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
 ![IoT](https://img.shields.io/badge/-IoT_Dashboard-ff4500?style=flat-square&logoColor=white)
+![C++](https://img.shields.io/badge/-Embedded_C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 </td>
 <td width="50%">
