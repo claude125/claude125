@@ -95,7 +95,7 @@ Automated **static analysis** tool for embedded devices. Detects hardcoded secre
 ### 👶 Smart Neonatal IoT Monitor
 **Mission-critical** biometric monitoring system for neonatal care. AI-driven alerting with real-time SpO₂ tracking and clinical anomaly detection.
 
-<img src="1740684353296.jpg" width="100%" style="border-radius:6px; margin-bottom:8px;" />
+<img src="https://raw.githubusercontent.com/claude125/smart-baby-care-incubator/main/1740684353296.jpg" width="100%" />
 
 [![Repo](https://img.shields.io/badge/GitHub-smart--baby--care--incubator-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/claude125/smart-baby-care-incubator)
 ![MicroPython](https://img.shields.io/badge/-MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
@@ -120,7 +120,7 @@ Custom **log harvester** detecting brute-force patterns and geographic anomalies
 ### 🔥 Smart Fire Fighting Robot
 **Autonomous robotic system** that detects and suppresses fires without human intervention. NodeMCU ESP8266-powered with real-time IoT dashboard monitoring, MQTT telemetry, and instant push alerts — inspired by the Rusumo Border fire accident (2018).
 
-<img src="new.png" width="100%" style="border-radius:6px; margin-bottom:8px;" />
+<img src="https://raw.githubusercontent.com/claude125/smart-fire-fighting-robot/main/new.png" width="100%" />
 
 ![NodeMCU](https://img.shields.io/badge/-NodeMCU_ESP8266-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
