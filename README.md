@@ -1,8 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0d2137,100:00e5ff&height=220&section=header&text=Claude%20Dusengimana&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Network%20%26%20Security%20Engineer%20%7C%20IoT%20Researcher&descSize=16&descAlignY=58&animation=fadeIn)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=99999&color=00E5FF&center=true&vCenter=true&width=900&height=100&lines=Claude+Dusengimana" alt="Claude Dusengimana" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=🔐+Hardening+Critical+Infrastructure+%7C+Kigali%2C+Rwanda;📡+Reverse-Engineering+IoT+Firmware+%26+Embedded+Systems;🧠+Building+AI-Powered+Intrusion+Detection+Systems;☁️+Cloud-Native+Security+on+AWS+%26+Azure;🔬+MSc+Information+Technology+%7C+Open+to+Research)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=99999&color=7d8590&center=true&vCenter=true&width=900&height=40&lines=Senior+Network+%26+Security+Engineer+%7C+IoT+Researcher+%7C+Kigali%2C+Rwanda" alt="subtitle" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&height=40&lines=🔐+Hardening+Critical+Infrastructure;📡+Reverse-Engineering+IoT+Firmware;🧠+Building+AI-Powered+IDS+Systems;☁️+Cloud-Native+Security+%7C+AWS+%26+Azure)](https://git.io/typing-svg)
 
 <br/>
 
@@ -145,6 +147,6 @@ Reply: OPEN on ports [security-research / iot-hardening / cloud-infra]
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0d2137,100:030712&height=100&section=footer&text=EOF%3A+claude_dusengimana.md&fontSize=13&fontColor=7d8590&fontAlignY=65&animation=fadeIn)
+![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&pause=99999&color=7d8590&center=true&vCenter=true&width=900&height=40&lines=──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────)
 
 </div>
