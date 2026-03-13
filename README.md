@@ -71,7 +71,6 @@
 ### 🔍 Firmware Vulnerability Scanner
 Automated **static analysis** tool for embedded devices. Detects hardcoded secrets, backdoors, and weak crypto in firmware binaries before deployment.
 
-[![Repo](https://img.shields.io/badge/GitHub-iot--firmware--vulnerability--scanner-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/claude125/iot-firmware-vulnerability-scanner)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Binwalk](https://img.shields.io/badge/-Binwalk-000000?style=flat-square&logoColor=white)
 ![Firmwalker](https://img.shields.io/badge/-Firmwalker-9FEF00?style=flat-square&logoColor=black)
@@ -82,7 +81,6 @@ Automated **static analysis** tool for embedded devices. Detects hardcoded secre
 ### 🧠 AI Intrusion Detection System
 **Deep-learning** network guard identifying real-time DoS attacks and lateral movement within corporate networks at packet-level precision.
 
-[![Repo](https://img.shields.io/badge/GitHub-ai--intrusion--detection--system-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/claude125/ai-intrusion-detection-system)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PCAP](https://img.shields.io/badge/-PCAP_Forensics-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -95,28 +93,14 @@ Automated **static analysis** tool for embedded devices. Detects hardcoded secre
 ### 👶 Smart Neonatal IoT Monitor
 **Mission-critical** biometric monitoring system for neonatal care. AI-driven alerting with real-time SpO₂ tracking and clinical anomaly detection.
 
-[![Repo](https://img.shields.io/badge/GitHub-smart--baby--care--incubator-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/claude125/smart-baby-care-incubator)
 ![MicroPython](https://img.shields.io/badge/-MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
 ![Embedded](https://img.shields.io/badge/-Embedded_Systems-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 📊 Security Log SIEM
-Custom **log harvester** detecting brute-force patterns and geographic anomalies across Linux server clusters with real-time threat correlation.
-
-[![Repo](https://img.shields.io/badge/GitHub-security--log--analyzer-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/claude125/security-log-analyzer)
-![Logstash](https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=elastic&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Threat Hunting](https://img.shields.io/badge/-Threat_Hunting-ff4757?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🔥 Smart Fire Fighting Robot
-**Autonomous robotic system** that detects and suppresses fires without human intervention. NodeMCU ESP8266-powered with real-time IoT dashboard monitoring, MQTT telemetry, and instant push alerts — inspired by the Rusumo Border fire accident (2018).
+*Autonomous robotic system* that detects and suppresses fires without human intervention. NodeMCU ESP8266-powered with real-time IoT dashboard monitoring, MQTT telemetry, and instant push alerts — inspired by the Rusumo Border fire accident (2018).
 
 ![NodeMCU](https://img.shields.io/badge/-NodeMCU_ESP8266-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
@@ -126,37 +110,12 @@ Custom **log harvester** detecting brute-force patterns and geographic anomalies
 </td>
 <td width="50%">
 
-### 🖥️ Linux Server Monitoring Tool
-**Real-time monitoring** of CPU, RAM, disk, and system logs across Linux servers. Python/Bash scripts for DevOps visibility and cybersecurity observability.
+### 📊 Security Log SIEM
+Custom **log harvester** detecting brute-force patterns and geographic anomalies across Linux server clusters with real-time threat correlation.
 
-[![Repo](https://img.shields.io/badge/GitHub-Linux--Server--Monitoring--Tool-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/claude125/1.-Linux-Server-Monitoring-Tool-Monitor-CPU-RAM-disk-and-logs.-Python-or-Bash-scripts.)
+![Logstash](https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 RBAC Authentication System
-**Python-based** authentication and role-based access control (RBAC) system for managing user permissions securely across multi-role environments.
-
-[![Repo](https://img.shields.io/badge/GitHub-rbac--authentication--system-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/claude125/rbac-authentication-system)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![RBAC](https://img.shields.io/badge/-RBAC-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
-![Auth](https://img.shields.io/badge/-Authentication-ff4757?style=flat-square&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🚚 Supply Chain AI Disruption Predictor
-**Machine learning** system for predicting and proactively mitigating supply chain disruptions using AI-driven risk analysis and anomaly forecasting.
-
-[![Repo](https://img.shields.io/badge/GitHub-supply--chain--ai--disruption--prediction-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/claude125/supply-chain-ai-disruption-prediction)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Threat Hunting](https://img.shields.io/badge/-Threat_Hunting-ff4757?style=flat-square&logoColor=white)
 
 </td>
 </tr>
