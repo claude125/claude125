@@ -179,6 +179,15 @@ Custom **log harvester** detecting brute-force patterns and geographic anomalies
 </td>
 <td width="50%">
 
+### 🔒 VPN & Firewall Automation Framework
+**Automated provisioning and auditing** of VPN tunnels and firewall rule sets across network perimeters. Captures and inspects live traffic with Wireshark/PCAP to validate rule enforcement, detect policy drift, and flag unauthorized tunneling attempts in real time.
+
+[![Repo](https://img.shields.io/badge/GitHub-vpn--firewall--automation-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/claude125/vpn-firewall-automation)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![PCAP](https://img.shields.io/badge/-PCAP_Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Firewall](https://img.shields.io/badge/-Firewall_Auditing-ff4757?style=flat-square&logoColor=white)
+![VPN](https://img.shields.io/badge/-VPN_Automation-0078D4?style=flat-square&logoColor=white)
+
 </td>
 </tr>
 </table>
