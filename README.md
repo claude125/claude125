@@ -164,6 +164,23 @@ Custom **log harvester** detecting brute-force patterns and geographic anomalies
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Security Hardening Toolkit
+**Automated security hardening** framework for AWS and Azure environments. Enforces CIS benchmarks, detects misconfigured IAM policies, exposed storage buckets, and unencrypted resources — all containerized with Docker for portable, repeatable cloud audits.
+
+[![Repo](https://img.shields.io/badge/GitHub-cloud--security--hardening--toolkit-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/claude125/cloud-security-hardening-toolkit)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CIS Benchmarks](https://img.shields.io/badge/-CIS_Benchmarks-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
